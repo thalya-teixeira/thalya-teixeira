@@ -9,13 +9,15 @@
   <img align="center" alt="Thalya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thalya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 </div>
-
+  
+***
 <div align="center">
   <a href="https://github.com/thalya-teixeira">
   <img img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=thalya-teixeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalya-teixeira&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
+***  
 <div align="center"> 
     <a href="https://instagram.com/invites/contact/?i=14fkrxlencsu&utm_content=4328k0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thalyateixeira9@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -9,6 +9,10 @@
   <img align="center" alt="Thalya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thalya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 </div>
+ <img align="center" alt="Thalya-csharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+</div>
+
+
   
 ***
 <div align="center">
@@ -16,6 +20,7 @@
   <img img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=thalya-teixeira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalya-teixeira&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
   
 ***  
 <div align="center"> 

@@ -2,7 +2,7 @@
 <a href="https://picasion.com/"> <img src="https://i.picasion.com/pic92/172cd2db39b4f6f29800e6d3df3df046.gif" padding-top="50;" width="80" height="80" style="border-radius:50px;" alt="Thalya" /></a><br /><a href="https://picasion.com/"></a> </h1>
 
 - 👩‍🎓 Formada em Engenharia Civil e atualmente cursando Segurança da Informação na FATEC de Araraquara.
-- 👩‍💻 Estudando back-end com foco em C# .Net e banco de dados.
+- 👩‍💻 Estudando back-end com foco em C# .Net.
 - 🌎 Objetivo de vida é fazer um intercâmbio, aprender novos idiomas, novas culuras e o mundão a fora.
   
 <div style="display: inline_block" align="center"><br>

@@ -1,5 +1,5 @@
 <h1> Oi! Eu sou a Thalya Teixeira!
-<a href="https://picasion.com/"> <img src="https://i.picasion.com/pic92/172cd2db39b4f6f29800e6d3df3df046.gif" padding-top="50;" width="80" height="80" style="border-radius:50px;" alt="Thalya" /></a><br /><a href="https://picasion.com/"></a> </h1>
+<a href="https://picasion.com/"> <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/138bedd4924a29414b95ff91f7b5e877.gif" padding-top="50;" width="100" height="100" style="border-radius:50px;" alt="Thalya" /></a><br /><a href="https://picasion.com/"></a> </h1>
 
 - 👩‍🎓 Formada em Engenharia Civil e atualmente cursando Segurança da Informação na FATEC de Araraquara.
 - 👩‍💻 Estagiária de desenvolvimento Back-End com foco em .Net C#.

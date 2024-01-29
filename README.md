@@ -1,9 +1,14 @@
 <h1> Oi! Eu sou a Thalya Teixeira!
 <a href="https://picasion.com/"> <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/138bedd4924a29414b95ff91f7b5e877.gif" padding-top="50;" width="100" height="100" style="border-radius:50px;" alt="Thalya" /></a><br /><a href="https://picasion.com/"></a> </h1>
 
-- 👩‍🎓 Formada em Engenharia Civil e atualmente cursando Segurança da Informação na FATEC de Araraquara.
-- 👩‍💻 Estagiária de desenvolvimento Back-End com foco em .Net C#.
-- 🌎 Objetivo de vida é fazer um intercâmbio, aprender novos idiomas, novas culuras e conhecer mundão a fora.
+🚀 Civil Engineer Transformed into Tech Enthusiast 🚀
+- After completing my graduation in Civil Engineering in 2020, I discovered my true passion in the field of technology. In 2022, I joined 5by5, being part of the 3rd internship class, and today, I hold the position of Junior Developer.
+
+🚧 Specializations: API and Microservices Development
+- Throughout my journey, I've developed strong skills in working with APIs and microservices, gaining practical experience with databases such as Oracle, MongoDB, and SQL. Currently, I play an active role in the API development team and facilitate the team's access to DevOps and infrastructure resources.
+
+🌐 Fluency in English
+- Currently, my English proficiency is at B2, allowing me to communicate effectively. I am actively pursuing advanced fluency (C1) to further enhance my language skills.
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thalya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
